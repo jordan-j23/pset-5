@@ -1,10 +1,10 @@
 window.onload = function() {
-    document.getElementById("hello-sample").onclick = sayHelloStaff;
-    document.getElementById("rectangle-sample").onclick = drawRectangleStaff;
-    document.getElementById("colored-rectangle-sample").onclick = drawColoredRectangleStaff;
-    document.getElementById("triangle-sample").onclick = drawTriangleStaff;
-    document.getElementById("smile-sample").onclick = drawFaceStaff;
-    document.getElementById("pyramid-sample").onclick = drawPyramidStaff;
+    document.getElementById("hello").onclick = sayHelloStaff;
+    document.getElementById("rectangle").onclick = drawRectangleStaff;
+    document.getElementById("colored-rectangle").onclick = drawColoredRectangleStaff;
+    document.getElementById("triangle").onclick = drawTriangleStaff;
+    document.getElementById("smile").onclick = drawFaceStaff;
+    document.getElementById("pyramid").onclick = drawPyramidStaff;
 
     // this is how we're connecting our buttons to our JavaScript functions. let's walk through it.
     //
