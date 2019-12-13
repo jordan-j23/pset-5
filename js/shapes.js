@@ -231,4 +231,4 @@ const drawFace = function() {
 //   let ctx = canvas.getConext("2d");
 
 //   let radius = prompt("Radius:");
-};
+}
