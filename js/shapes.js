@@ -228,7 +228,7 @@ const drawFace = function() {
 
 // const drawPyramid = function() {
 //   let canvas = document.getElementById("student-canvas-6");
-//   let ctx = canvas.getContext("2d");
+//   let ctx = canvas.getConext("2d");
 
 //   let radius = prompt("Radius:");
 };
