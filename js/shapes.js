@@ -194,7 +194,7 @@ const drawFace = function() {
 
   if (radius === null) {
     ctx.clearRect(0 , 0 , canvas.width , canvas.height);
-  }
+  };
 
   if (radius > canvas.height / 2) {
     alert("Your smiley face won't fit on the canvas.");
